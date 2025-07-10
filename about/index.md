@@ -1,9 +1,9 @@
 ---
 layout: layouts/page.njk
-title: Guestbook
+title: Write
 templateClass: tmpl-page
 eleventyNavigation:
-  key: Guestbook
+  key: Write
   order: 3
 ---
 
