@@ -1,5 +1,5 @@
 {
-  "title": "Medev",
+  "title": "@medev",
   "url": "https://medev.vercel.app/",
   "language": "en",
   "description": "Software Developer | Designer 💻",
@@ -14,7 +14,7 @@
     "url": "https://medev.vercel.app/feed/feed.json"
   },
   "author": {
-    "name": "Medev",
+    "name": "@medev",
     "moto": "Notes by developer 💻",
     "email": "meteyilma@proton.me",
     "url": "https://x.com/meteyilma/",
