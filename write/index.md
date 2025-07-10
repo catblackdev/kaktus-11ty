@@ -1,9 +1,9 @@
 ---
 layout: layouts/page.njk
-title: Write
+title: Write me!
 templateClass: tmpl-page
 eleventyNavigation:
-  key: Write
+  key: Write me!
   order: 3
 ---
 
