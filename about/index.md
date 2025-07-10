@@ -8,3 +8,5 @@ eleventyNavigation:
 ---
 
 Articles & notes on software development.
+
+For feedback: <a href="mailto:meteyilma@proton.me">meteyilma@proton.me</a>
