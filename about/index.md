@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 3
 ---
 
-<center><h2>About</h2></center>
+<center><h2>About me</h2></center>
 
 Hey there! I write code and design stuff — which means some nights I’m debugging till 4 AM, and other days I’m moving a pixel 1mm to the left like it’s a matter of life and death. Perfect balance? Nah, just chronic indecision.
 
