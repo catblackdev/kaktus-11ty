@@ -1,7 +1,7 @@
 <header>
     <ul class="nav">
         {% if page.url !== '/' %}
-        <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="/">ᝰ.ᐟ</a></li>
+        <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="/">ᯓ</a></li>
         {% endif %}
         {%- for entry in collections.all | eleventyNavigation %}
             <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
