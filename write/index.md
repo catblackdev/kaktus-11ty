@@ -1,9 +1,9 @@
 ---
 layout: layouts/page.njk
-title: Write +
+title: Write
 templateClass: tmpl-page
 eleventyNavigation:
-  key: Write +
+  key: Write
   order: 3
 ---
 
