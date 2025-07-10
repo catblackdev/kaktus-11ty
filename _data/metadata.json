@@ -1,23 +1,23 @@
 {
-  "title": "John Doe works",
-  "url": "https://example.com/",
+  "title": "Medev",
+  "url": "https://medev.vercel.app/",
   "language": "en",
-  "description": "I am a person who want another 11ty blog",
+  "description": "Software Developer | Designer 💻",
   "feed": {
-    "subtitle": "I am a person who want another 11ty blog",
+    "subtitle": "Software Developer | Designer 💻",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://medev.vercel.app/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://medev.vercel.app/feed/feed.json"
   },
   "author": {
-    "name": "John Doe",
-    "moto": "digging holes",
-    "email": "mail@example.com",
-    "url": "https://example.com/about-me/",
-    "avatar": "/img/lebowski@2x.png"
+    "name": "Medev",
+    "moto": "developer notes",
+    "email": "meteyilma@proton.me",
+    "url": "https://x.com/meteyilma/",
+    "avatar": "https://i.ibb.co/39hC0Ft0/AUgr-WOy-C-400x400-modified.png"
   }
 }
