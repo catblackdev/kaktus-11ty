@@ -9,11 +9,11 @@ eleventyNavigation:
 
 ## About
 
-Hey! I’m a software engineer and designer — which basically means I argue with myself a lot. One side wants clean code, the other wants pretty pixels. Spoiler: they both end up drinking coffee and staying up late.
+Hey there! I write code and design stuff — which means some nights I’m debugging till 4 AM, and other days I’m moving a pixel 1mm to the left like it’s a matter of life and death. Perfect balance? Nah, just chronic indecision.
 
-I build apps that work smoothly (most of the time) and look decent enough to show your mom. I'm the type of person who debugs at 2 AM and redesigns a button just because it “feels off.” I believe good design makes people smile, and good code doesn’t crash.
+I’m either a developer obsessed with visuals or a designer hiding from code — still not sure. But I try to do both as best as I can. My apps usually work (if they don’t crash, I’m happy), and my designs aren’t too bad on the eyes.
 
-If you ever meet me, just bring coffee. That’s the true programming language.
+Here, I write about this chaotic soup of design and development. Part rant, part reminder, fully me. If you’ve stumbled across this page, grab a coffee and hang out — no pressure, no corporate talk, just vibes.
 
 <br/>
 
