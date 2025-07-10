@@ -1,6 +1,6 @@
 ---
 title: Typescript interface dependent properties
-date: 2022-10-01
+date: 2025-07-08
 layout: layouts/post.njk
 ---
 
