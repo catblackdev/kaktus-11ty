@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 3
 ---
 
-Articles and notes on software development.
+Articles & notes on software development.
