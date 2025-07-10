@@ -18,10 +18,10 @@ title: Notes by @medev
   {% set postslistCounter = collections.posts | length %}
   
   {% if postslistCounter > 1 %}
-    <h2>More posts</h2>
+    <h2>More notes</h2>
     {% include "postslist.njk" %}
       {% if postslistCounter > 3 %}
-        <a class="btn-more" href="{{ '/posts/' | url }}">More posts &rarr;</a>
+        <a class="btn-more" href="{{ '/posts/' | url }}">More notes &rarr;</a>
       {% endif %}
   {% endif %}
 </div>
