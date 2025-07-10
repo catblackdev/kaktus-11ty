@@ -1,6 +1,6 @@
 ---
 title: from Confusion to Clarity
-date: 2025-07-08
+date: 2025-07-03
 layout: layouts/post.njk
 ---
 
