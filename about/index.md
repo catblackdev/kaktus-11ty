@@ -9,4 +9,4 @@ eleventyNavigation:
 
 Articles & notes on software development.
 
-For feedback: <a href="mailto:meteyilma@proton.me">meteyilma@proton.me</a>
+If you want to reach me, follow my <a href="mailto:meteyilma@proton.me">e-mail</a> or <a href="https://x.com/0medev">X</a> account.
