@@ -15,6 +15,7 @@ I build apps that work smoothly (most of the time) and look decent enough to sho
 
 If you ever meet me, just bring coffee. That’s the true programming language.
 
+
 ### Connect
 
 If you want to reach me, follow my <a href="mailto:meteyilma@proton.me">e-mail</a> or <a target="_blank" href="https://x.com/0medev">X</a> account.
