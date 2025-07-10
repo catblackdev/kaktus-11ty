@@ -1,6 +1,6 @@
 ---
 title: less noise
-date: 2025-07-03
+date: 2025-06-30
 layout: layouts/post.njk
 ---
 
