@@ -19,4 +19,4 @@ Here, I write about this chaotic soup of design and development. Part rant, part
 
 ### Connect
 
-If you want to reach me, follow my <a href="mailto:meteyilma@proton.me">e-mail</a> or <a target="_blank" href="https://x.com/0medev">X</a> account.
+If you want to reach me, follow my <a href="mailto:meteyilma@proton.me">e-mail</a> or <a target="_blank" href="https://x.com/metedev0">X</a> account.
