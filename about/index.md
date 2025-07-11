@@ -9,7 +9,7 @@ eleventyNavigation:
 
 ## About
 
-Software engineer & designer who enjoys creating simple, useful and fun web experiences. Always learning, always building. 💻
+Software developer & designer who enjoys creating simple, useful and fun web experiences. Always learning, always building. 💻
 
 ### Connect
 
