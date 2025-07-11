@@ -7,6 +7,10 @@ eleventyNavigation:
   order: 3
 ---
 
+## About
+
 Software engineer & designer who enjoys creating simple, useful and fun web experiences. Always learning, always building. 💻
+
+### Connect
 
 If you want to reach me, follow my <a href="mailto:meteyilma@proton.me">e-mail</a> or <a target="_blank" href="https://x.com/metedev0">X</a> account.
